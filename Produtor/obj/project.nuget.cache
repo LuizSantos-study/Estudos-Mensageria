@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfxhtA/v59U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luiz.santos\\Desktop\\Luiz Santos\\Dev\\RabbitMQ\\Produtor\\Produtor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luiz.santos\\.nuget\\packages\\rabbitmq.client\\7.2.1\\rabbitmq.client.7.2.1.nupkg.sha512",
+    "C:\\Users\\luiz.santos\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
