@@ -20,14 +20,6 @@ await channel.QueueDeclareAsync(
     arguments: null
 );
 
-await channel.QueueDeclareAsync(
-    queue: "FilaTeste2",
-    durable: true,
-    exclusive: false,
-    autoDelete: false,
-    arguments: null
-);
-
 var cts = new CancellationTokenSource();
 Console.CancelKeyPress += (s, e) =>
 {
@@ -45,8 +37,8 @@ while (!cts.Token.IsCancellationRequested)
     var body = Encoding.UTF8.GetBytes(mensagem);
 
     await channel.BasicPublishAsync(
-        exchange: "TesteEx2",
-        routingKey: "",
+        exchange: "TesteEx",
+        routingKey: "pagamento",
         body: body
     );
 

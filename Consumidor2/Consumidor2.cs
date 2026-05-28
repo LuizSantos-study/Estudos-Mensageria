@@ -15,7 +15,7 @@ using var channel = await connection.CreateChannelAsync();
 
 // Declara a mesma fila do produtor
 await channel.QueueDeclareAsync(
-    queue: "FilaTeste2",
+    queue: "FilaTeste",
     durable: true,
     exclusive: false,
     autoDelete: false,
@@ -50,7 +50,7 @@ consumer.ReceivedAsync += async (model, ea) =>
 };
 
 await channel.BasicConsumeAsync(
-    queue: "FilaTeste2",
+    queue: "FilaTeste",
     autoAck: false,   // confirma manualmente
     consumer: consumer
 );

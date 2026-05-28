@@ -16,3 +16,4 @@ C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Produtor\obj\Debug\net10.0
 C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Produtor\obj\Debug\net10.0\Produtor.pdb
 C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Produtor\obj\Debug\net10.0\Produtor.genruntimeconfig.cache
 C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Produtor\obj\Debug\net10.0\ref\Produtor.dll
+C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Produtor\obj\Debug\net10.0\Produtor.sourcelink.json

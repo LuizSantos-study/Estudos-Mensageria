@@ -16,3 +16,4 @@ C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Consumidor\obj\Debug\net10
 C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Consumidor\obj\Debug\net10.0\Consumidor.pdb
 C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Consumidor\obj\Debug\net10.0\Consumidor.genruntimeconfig.cache
 C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Consumidor\obj\Debug\net10.0\ref\Consumidor.dll
+C:\Users\luiz.santos\Desktop\Luiz Santos\Dev\RabbitMQ\Consumidor\obj\Debug\net10.0\Consumidor.sourcelink.json
